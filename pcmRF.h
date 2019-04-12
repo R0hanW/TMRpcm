@@ -3,7 +3,7 @@
 #define pcmRF_h   //   #define this so the compiler knows it has been included
 
 #include <Arduino.h>
-#include <TMRpcm.h>
+#include </Users/jaredgoldberg/downloads/056-Arduino-Talking-System/TMRpcm-master/TMRpcm.h>
 
 
 #if defined (ENABLE_RF)

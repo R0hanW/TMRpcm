@@ -11,8 +11,8 @@ Contributors:
 #define TMRpcm_h   //   #define this so the compiler knows it has been included
 
 #include <Arduino.h>
-#include <pcmConfig.h>
-#include <pcmRF.h>
+#include </Users/jaredgoldberg/downloads/056-Arduino-Talking-System/TMRpcm-master/pcmCONFIG.h>
+#include </Users/jaredgoldberg/downloads/056-Arduino-Talking-System/TMRpcm-master/pcmRF.h>
 #if !defined (SDFAT)
 	#include <SD.h>
 #else
